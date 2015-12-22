@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[OrquestaApp]]></title>
         <description><![CDATA[OrquestaApp]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/orquestaapp/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 22 Dec 2015 22:59:13 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 22 Dec 2015 23:03:04 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/orquestaapp/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[FIJAR PRECIOS]]></title>
+            <description><![CDATA[<article><h1>FIJAR PRECIOS</h1><p>Orquesta te ayuda a hacer presupuestos realistas, rentables y en mucho menos tiempo.</p></article>]]></description>
+            <link>https://thegrid.ai/orquestaapp/fijar-precios/index.html</link>
+            <guid isPermaLink="false">8804a993-1fb1-4a72-842d-3bea6e28f040</guid>
+            <pubDate>Tue, 22 Dec 2015 23:02:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[OrquestaApp]]></title>
-            <description><![CDATA[<article><h1>OrquestaApp</h1><p>core y cualt</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/48a291aa944512b22bcaf0544223c0081439e3fa.jpg"></article>]]></description>
-            <link>undefinedorquestaapp/index.html</link>
+            <description><![CDATA[<article><h1>OrquestaApp</h1><p>Backoffice para diseñadores y estudios</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/48a291aa944512b22bcaf0544223c0081439e3fa.jpg"></article>]]></description>
+            <link>https://thegrid.ai/orquestaapp/orquestaapp/index.html</link>
             <guid isPermaLink="false">99ff407e-9452-4748-abdc-7522e130a6a7</guid>
             <pubDate>Tue, 22 Dec 2015 22:59:04 GMT</pubDate>
         </item>
