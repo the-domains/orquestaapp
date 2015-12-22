@@ -1,7 +1,7 @@
 name: OrquestaApp
 favicon: null
-layout_spectrum: 0.9001042027957737
-typography_spectrum: 0.7844186832662672
+layout_spectrum: 0.02776
+typography_spectrum: 0.05714
 cta:
   domain: null
   bucket: null
@@ -22,7 +22,7 @@ color:
     - '#F4EEA9'
     - '#F4F482'
   brandStrength: 0.7487512738443911
-  lightness: 0.10515082674100995
-  saturation: 0.5839462014846504
-  rhythmicContrast: 0.3393293027766049
+  lightness: 1
+  saturation: 1
+  rhythmicContrast: 1
 purpose: []
