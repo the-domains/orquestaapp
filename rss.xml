@@ -4,7 +4,7 @@
         <description><![CDATA[OrquestaApp]]></description>
         <link>https://thegrid.ai/orquestaapp/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 22 Dec 2015 23:07:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Dec 2015 17:36:33 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/orquestaapp/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[FIJAR PRECIOS]]></title>
@@ -12,13 +12,6 @@
             <link>https://thegrid.ai/orquestaapp/fijar-precios/index.html</link>
             <guid isPermaLink="false">8804a993-1fb1-4a72-842d-3bea6e28f040</guid>
             <pubDate>Tue, 22 Dec 2015 23:02:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[OrquestaApp]]></title>
-            <description><![CDATA[<article><h1>OrquestaApp</h1><p>Backoffice para diseñadores y estudios</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d2f07a96-9d2c-4336-bfaa-8e039b04fa63.png"></article>]]></description>
-            <link>https://thegrid.ai/orquestaapp/orquestaapp/index.html</link>
-            <guid isPermaLink="false">99ff407e-9452-4748-abdc-7522e130a6a7</guid>
-            <pubDate>Tue, 22 Dec 2015 23:07:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
